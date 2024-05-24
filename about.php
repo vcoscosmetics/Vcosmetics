@@ -1,5 +1,6 @@
 <!DOCTYPE HTML>
 <html lang="en-US">
+
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -44,11 +45,11 @@
 <body>
 	<!-- loder -->
 	<?php
-	
-	include("preloader.php");
-	
+
+	include ("preloader.php");
+
 	?>
-	
+
 
 	<!--==================================================-->
 	<!-- Start Topbar Area -->
@@ -91,9 +92,9 @@
 
 	<?php
 
-include("header.php");
+	include ("header.php");
 
-?>
+	?>
 
 	<!-- Lifesafe Mobile Menu Area -->
 	<div class="mobile-menu-area sticky-menu" id="navbar">
@@ -155,12 +156,14 @@ include("header.php");
 							<h4>About Our Company</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>Our Company Been Working 
+							<h2>Our Company Been Working
 								Successfully For 20 Years</h2>
 						</div>
 					</div>
 					<div class="about-discription wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
+						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+							labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
+							viverra maecenas accumsan lacus vel facilisis. </p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12">
@@ -174,20 +177,26 @@ include("header.php");
 									<div class="tabs_item">
 										<div class="row">
 											<div class="col-lg-4 col-md-6 col-sm-6">
-												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="1s">
+												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
+													data-wow-duration="1s">
 													<img src="assets/images/about/about-thumb2.png" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-6 col-sm-6">
-												<div class="about-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
+												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
+													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees</li>
+														<li><i class="bi bi-chevron-double-right"></i> Your business
+															deserves best software </li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														</li>
 													</ul>
 												</div>
 											</div>
-											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
+												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
 													<a href="#">Track Your Claim</a>
 												</div>
@@ -203,20 +212,26 @@ include("header.php");
 									<div class="tabs_item" style="display: none;">
 										<div class="row">
 											<div class="col-lg-4 col-md-6 col-sm-6">
-												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="1s">
+												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
+													data-wow-duration="1s">
 													<img src="assets/images/about/about-thumb2.png" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-6 col-sm-6">
-												<div class="about-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
+												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
+													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees</li>
+														<li><i class="bi bi-chevron-double-right"></i> Your business
+															deserves best software </li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														</li>
 													</ul>
 												</div>
 											</div>
-											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
+												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
 													<a href="#">Track Your Claim</a>
 												</div>
@@ -232,20 +247,26 @@ include("header.php");
 									<div class="tabs_item" style="display: none;">
 										<div class="row">
 											<div class="col-lg-4 col-md-6 col-sm-6">
-												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s" data-wow-duration="1s">
+												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
+													data-wow-duration="1s">
 													<img src="assets/images/about/about-thumb2.png" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-6 col-sm-6">
-												<div class="about-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
+												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
+													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees</li>
+														<li><i class="bi bi-chevron-double-right"></i> Your business
+															deserves best software </li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														</li>
 													</ul>
 												</div>
 											</div>
-											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
+												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
 													<a href="#">Track Your Claim</a>
 												</div>
@@ -299,7 +320,7 @@ include("header.php");
 						</div>
 						<div class="service-content">
 							<h4><a href="service-details.html"> Family Insurance</a></h4>
-							<p>The trust then manages the policy 
+							<p>The trust then manages the policy
 								and pays the premiums.</p>
 						</div>
 						<div class="Lifesafe-btn service">
@@ -317,7 +338,7 @@ include("header.php");
 						</div>
 						<div class="service-content">
 							<h4><a href="service-details.html"> Business Insurance</a></h4>
-							<p>The trust then manages the policy 
+							<p>The trust then manages the policy
 								and pays the premiums.</p>
 						</div>
 						<div class="Lifesafe-btn service">
@@ -335,7 +356,7 @@ include("header.php");
 						</div>
 						<div class="service-content">
 							<h4><a href="service-details.html"> Trusted Company</a></h4>
-							<p>The trust then manages the policy 
+							<p>The trust then manages the policy
 								and pays the premiums.</p>
 						</div>
 						<div class="Lifesafe-btn service">
@@ -359,7 +380,7 @@ include("header.php");
 				<div class="col-lg-4"></div>
 				<div class="col-lg-4 col-md-6">
 					<div class="protection-content">
-						<h4>Where Protection Meets 
+						<h4>Where Protection Meets
 							Convenience</h4>
 					</div>
 				</div>
@@ -387,7 +408,7 @@ include("header.php");
 							<h4>Why Choose Us</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Why You Should Choose Our 
+							<h2>Why You Should Choose Our
 								Insurance Policy.</h2>
 						</div>
 						<div class="choose-discription">
@@ -599,7 +620,7 @@ include("header.php");
 	<!--==================================================-->
 	<!-- End Sidebar Area -->
 	<!--==================================================-->
-	
+
 	<!--==================================================-->
 	<!-- Start Footer Area -->
 	<!--==================================================-->
