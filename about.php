@@ -43,47 +43,12 @@
 
 <body>
 	<!-- loder -->
-	<div class="loader-wrapper">
-		<div class="loader-wrap">
-			<div class="preloader">
-				<div id="shifa-preloader" class="shifa-preloader">
-					<div class="layer layer-one"><span class="overlay"></span></div>
-					<div class="animation-preloader">
-						<div class="spinner"></div>
-						<div class="txt-loading">
-							<span data-text-preloader="L" class="letters-loading">
-								L
-							</span>
-							<span data-text-preloader="I" class="letters-loading">
-								I
-							</span>
-							<span data-text-preloader="F" class="letters-loading">
-								F
-							</span>
-							<span data-text-preloader="E" class="letters-loading">
-								E
-							</span>
-							<span data-text-preloader="S" class="letters-loading">
-								S
-							</span>
-							<span data-text-preloader="A" class="letters-loading">
-								A
-							</span>
-							<span data-text-preloader="F" class="letters-loading">
-								F
-							</span>
-							<span data-text-preloader="E" class="letters-loading">
-								E
-							</span>
-						</div>
-					</div>  
-				</div>
-			</div>
-		</div>
-		<div class="loader"></div>
-		<div class="loder-section left-section"></div>
-		<div class="loder-section right-section"></div>
-	</div>
+	<?php
+	
+	include("preloader.php");
+	
+	?>
+	
 
 	<!--==================================================-->
 	<!-- Start Topbar Area -->
