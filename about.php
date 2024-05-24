@@ -87,80 +87,13 @@
 	<!--==================================================-->
 	<!-- Start Header Area -->
 	<!--==================================================-->
-	<header class="header-area" id="sticky-header">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-2">
-					<div class="logo">
-						<a href="index.html"><img src="assets/images/logo.png" alt=""></a>
-					</div>
-				</div>
-				<div class="col-lg-10">
-					<div class="header-menu">
-						<ul>
-							<li><a href="#">Home <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="index.html">Home One</a></li>
-										<li><a href="index-2.html">Home Two</a></li>
-										<li><a href="index-3.html">Home Three</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="#">Services <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="service.html">Services</a></li>
-										<li><a href="life-insurance.html">Life Insurance</a></li>
-										<li><a href="car-insurance.html">Car Insurance</a></li>
-										<li><a href="health-insurance.html">Health Insurance</a></li>
-										<li><a href="home-insurance.html">Home Insurance</a></li>
-										<li><a href="travel-insurance.html">Travel Insurance</a></li>
-										<li><a href="marrige-insurance.html">Marrige Insurance</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="#">Pages <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="service.html">Service</a></li>
-										<li><a href="project-grid.html">Project Grid</a></li>
-										<li><a href="projects-details.html">Project Details</a></li>
-										<li><a href="team.html">Team</a></li>
-										<li><a href="team-detials.html">Team Details</a></li>
-										<li><a href="faq.html">Faq Page</a></li>
-										<li><a href="contact.html">Contact</a></li>
-										<li><a href="error.html">Error Page</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="#">Blog <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="blog.html">Blog</a></li>
-										<li><a href="blog-details.html">Blog Details</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="contact.html">Contacts Us</a></li>
-						</ul>
-						<div class="header-right">
-							<div class="header-search">
-								<a class="search-box-btn search-box-outer" href="#"><i class="bi bi-search"></i></a>
-							</div>
-							<div class="Lifesafe-btn">
-								<a href="#">Track Your Claim</a>
-							</div>
-							<div class="header-sidebar">
-								<a class="navSidebar-button" href="#"><i class="bi bi-grid-3x3-gap-fill"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
+
+
+	<?php
+
+include("header.php");
+
+?>
 
 	<!-- Lifesafe Mobile Menu Area -->
 	<div class="mobile-menu-area sticky-menu" id="navbar">
