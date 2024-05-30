@@ -175,7 +175,7 @@ include("header.php");
 						</div>
 						<div class="video-icon">
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true"
-								href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+								href="https://youtu.be/iMtGhfNnk_8?si=Saufwv70M4jxghFR"><i class="bi bi-play"></i></a>
 						</div>
 					</div>
 				</div>
@@ -446,7 +446,7 @@ include("header.php");
 							<h4>Our Best Services</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Amazing Insurance Services</h2>
+							<h2>Amazing Services</h2>
 						</div>
 					</div>
 				</div>
