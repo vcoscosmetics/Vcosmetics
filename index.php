@@ -45,9 +45,9 @@
 <body>
 	<!-- loder -->
 	<?php
-	
-	include("preloader.php");
-	
+
+	include ("preloader.php");
+
 	?>
 
 	<!--==================================================-->
@@ -126,11 +126,11 @@
 	<!--	</div>-->
 	<!--</header>-->
 
-<?php
+	<?php
 
-include("header.php");
+	include ("header.php");
 
-?>
+	?>
 
 	<!-- Lifesafe Mobile Menu Area -->
 	<div class="mobile-menu-area sticky-menu" id="navbar">
@@ -299,13 +299,15 @@ include("header.php");
 						</div>
 						<div class="section-main-title about">
 							<h2>Our Company Been Working
-								Successfully For 20 Years</h2>
+								Successfully Since 2023</h2>
 						</div>
 					</div>
 					<div class="about-discription wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-							viverra maecenas accumsan lacus vel facilisis. </p>
+						<p>Since 2023, Srishma has been dedicated to harnessing nature's power with our premium neem,
+							karela, and jamun juice. We ensure top quality, purity, and sustainability in every product,
+							promoting holistic health through ancient Ayurvedic wisdom. Join us in experiencing the
+							transformative benefits of natural wellness.
+						</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12">
@@ -1128,7 +1130,8 @@ include("header.php");
 	<!--==================================================-->
 	<!-- serch pop up section -->
 	<div class="search-popup">
-		<button class="close-search style-two"><span class="flaticon-multiply"><i class="far fa-times-circle"></i></span></button>
+		<button class="close-search style-two"><span class="flaticon-multiply"><i
+					class="far fa-times-circle"></i></span></button>
 		<button class="close-search"><i class="fas fa-arrow-up"></i></button>
 		<form method="post" action="#">
 			<div class="form-group">
