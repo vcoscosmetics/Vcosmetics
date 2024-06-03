@@ -470,7 +470,42 @@
 						</div>
 					</div>
 				</div>
-				
+				<div class="col-lg-4 col-md-6">
+					<div class="service-single-box wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
+						<div class="service-thumb">
+							<img src="assets/images/service/service2.png" alt="">
+							<div class="service-icon">
+								<img src="assets/images/service/service-icon2.png" alt="">
+							</div>
+						</div>
+						<div class="service-content">
+							<h4><a href="service-details.html"> Business Insurance</a></h4>
+							<p>The trust then manages the policy
+								and pays the premiums.</p>
+						</div>
+						<div class="Lifesafe-btn service">
+							<a href="#">Read More +</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="service-single-box wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
+						<div class="service-thumb">
+							<img src="assets/images/service/service3.png" alt="">
+							<div class="service-icon">
+								<img src="assets/images/service/service-icon3.png" alt="">
+							</div>
+						</div>
+						<div class="service-content">
+							<h4><a href="service-details.html"> Trusted Company</a></h4>
+							<p>The trust then manages the policy
+								and pays the premiums.</p>
+						</div>
+						<div class="Lifesafe-btn service">
+							<a href="#">Read More +</a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
