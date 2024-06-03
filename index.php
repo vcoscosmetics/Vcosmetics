@@ -164,11 +164,10 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>We Ensure The Best
-								Insurance Service</h1>
+								Products</h1>
 						</div>
 						<div class="slider-discription">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-								ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation in every product we create. </p>
 						</div>
 						<div class="Lifesafe-btn slider1">
 							<a href="service-details.html">Discover More</a>
@@ -185,15 +184,14 @@
 				<div class="container">
 					<div class="slider-content">
 						<div class="slider-sub-title">
-							<h4>We Are Insurance Solution Company</h4>
+							<h4>We Are Personal Care Solution Company</h4>
 						</div>
 						<div class="slider-main-title">
 							<h1>We Ensure The Best
-								Insurance Service</h1>
+								Products</h1>
 						</div>
 						<div class="slider-discription">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-								ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. </p>
+							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation in every product we create. </p>
 						</div>
 						<div class="Lifesafe-btn slider1">
 							<a href="service-details.html">Discover More</a>
@@ -377,13 +375,13 @@
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+												<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+												<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -412,13 +410,13 @@
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+												<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+												<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
