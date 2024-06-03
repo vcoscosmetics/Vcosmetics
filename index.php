@@ -167,7 +167,8 @@
 								Products</h1>
 						</div>
 						<div class="slider-discription">
-							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation in every product we create. </p>
+							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation
+								in every product we create. </p>
 						</div>
 						<div class="Lifesafe-btn slider1">
 							<a href="service-details.html">Discover More</a>
@@ -191,7 +192,8 @@
 								Products</h1>
 						</div>
 						<div class="slider-discription">
-							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation in every product we create. </p>
+							<p>VCos Cosmetics, a trusted third-party manufacturer, we prioritize quality and innovation
+								in every product we create. </p>
 						</div>
 						<div class="Lifesafe-btn slider1">
 							<a href="service-details.html">Discover More</a>
@@ -375,13 +377,13 @@
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-												<a href="tel:+918882102422">Call Now</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-												<h5>Need Help? <span>+91 8882102422</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -410,13 +412,13 @@
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-												<a href="tel:+918882102422">Call Now</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-												<h5>Need Help? <span>+91 8882102422</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -455,7 +457,8 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="https://img.freepik.com/free-photo/man-doing-his-self-care-ritual_23-2149204966.jpg?t=st=1717422876~exp=1717426476~hmac=199b04de2cb313aac109974c52df56ecc064a787d6fcbdcc97aa7a855b91d478&w=1060" alt="">
+							<img src="https://img.freepik.com/free-photo/pretty-face-beautiful-smiling-woman-posing-studio-isolated-white-wall_231208-1388.jpg?t=st=1717422987~exp=1717426587~hmac=06e8000ab3b3a28f82b0b3af8d109c44e86a1900df28935cc4459e8ac9c3f5fd&w=1060"
+								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
 							</div>
@@ -485,7 +488,7 @@
 
 
 
-</p>
+							</p>
 						</div>
 						<div class="Lifesafe-btn service">
 							<a href="#">Read More +</a>
@@ -502,7 +505,8 @@
 						</div>
 						<div class="service-content">
 							<h4><a href="service-details.html"> Hair Care</a></h4>
-							<p>We handle the formulation process and cover all expenses to deliver top-quality products.</p>
+							<p>We handle the formulation process and cover all expenses to deliver top-quality products.
+							</p>
 						</div>
 						<div class="Lifesafe-btn service">
 							<a href="#">Read More +</a>
