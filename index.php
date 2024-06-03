@@ -59,7 +59,8 @@
 				<div class="col-lg-9">
 					<div class="topbar-items">
 						<ul>
-							<li class="line"><i class="bi bi-geo-alt"></i> <a href="#">Plot no. 12, New DLF, Faridabad,Hr</a></li>
+							<li class="line"><i class="bi bi-geo-alt"></i> <a href="#">Plot no. 12, New DLF,
+									Faridabad,Hr</a></li>
 							<li><i class="bi bi-alarm-fill"></i> <a href="#">Mon - Sat: 9:00 - 18:00/ Closed </a></li>
 						</ul>
 					</div>
@@ -159,7 +160,7 @@
 				<div class="container">
 					<div class="slider-content">
 						<div class="slider-sub-title">
-							<h4>We Are Insurance Solution Company</h4>
+							<h4>We Are Personal Care Solution Company</h4>
 						</div>
 						<div class="slider-main-title">
 							<h1>We Ensure The Best
@@ -298,14 +299,14 @@
 						</div>
 						<div class="section-main-title about">
 							<h2>Our Company Been Working
-								Successfully Since 2023</h2>
+								Successfully Since 2019</h2>
 						</div>
 					</div>
 					<div class="about-discription wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-						<p>Since 2023, Srishma has been dedicated to harnessing nature's power with our premium neem,
-							karela, and jamun juice. We ensure top quality, purity, and sustainability in every product,
-							promoting holistic health through ancient Ayurvedic wisdom. Join us in experiencing the
-							transformative benefits of natural wellness.
+						<p>Since 2019, Vcos Cosmetics has been dedicated to harnessing nature's power with our premium
+							cosmetic products. We ensure top quality, purity, and sustainability in every product,
+							promoting holistic beauty through natural ingredients. Join us in experiencing the
+							transformative benefits of our skincare line.
 						</p>
 					</div>
 					<div class="row">
@@ -330,7 +331,7 @@
 													data-wow-duration="1s">
 													<ul>
 														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
+															deserves best Products </li>
 														<li><i class="bi bi-chevron-double-right"></i> Board Composition
 														</li>
 														<li><i class="bi bi-chevron-double-right"></i> Board Committees
@@ -341,13 +342,13 @@
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
