@@ -455,7 +455,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="assets/images/service/service1.png" alt="">
+							<img src="https://img.freepik.com/free-photo/man-doing-his-self-care-ritual_23-2149204966.jpg?t=st=1717422876~exp=1717426476~hmac=199b04de2cb313aac109974c52df56ecc064a787d6fcbdcc97aa7a855b91d478&w=1060" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
 							</div>
