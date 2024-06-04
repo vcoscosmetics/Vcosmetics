@@ -33,7 +33,7 @@
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-wiget inner">
 						<div class="footer-wiget-logo">
-							<a href="index.html"><img src="assets/images/footer-logo.jpg" alt="" style= "height:200px"></a>
+							<a href="index.html"><img src="assets/images/footer-logo.jpg" alt="" style= "height:100px"></a>
 						</div>
 						<div class="footer-wiget-text">
 							<h4>Vcos Cosmetics has been dedicated to harnessing nature's power with our premium cosmetic products.</h4>
