@@ -202,8 +202,7 @@
 				<div class="col-lg-4"></div>
 				<div class="col-lg-4 col-md-6">
 					<div class="protection-content">
-						<h4>Where Protection Meets 
-							Convenience</h4>
+						<h4>Where Glamour Meets Convenience</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
@@ -221,7 +220,7 @@
 	<!--==================================================-->
 	<!-- Start Feature Area -->
 	<!--==================================================-->
-	<div class="feature-area inner-page">
+	<div class="feature-area">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
@@ -231,8 +230,7 @@
 						</div>
 						<div class="feature-content">
 							<h4>Trusted Company</h4>
-							<p>The trust then manages the policy 
-								and pays the premiums.</p>
+							<p>Your beauty, our trusted promise.</p>
 						</div>
 						<div class="feature-shape">
 							<img src="assets/images/service/feature-one-shape-1.png" alt="">
@@ -246,8 +244,7 @@
 						</div>
 						<div class="feature-content">
 							<h4>Save your money</h4>
-							<p>The trust then manages the policy 
-								and pays the premiums.</p>
+							<p> Affordable luxury for every budget.</p>
 						</div>
 						<div class="feature-shape">
 							<img src="assets/images/service/feature-one-shape-1.png" alt="">
@@ -261,8 +258,7 @@
 						</div>
 						<div class="feature-content">
 							<h4>Get a free quote</h4>
-							<p>The trust then manages the policy 
-								and pays the premiums.</p>
+							<p>Get a personalized quote today.</p>
 						</div>
 						<div class="feature-shape">
 							<img src="assets/images/service/feature-one-shape-1.png" alt="">
@@ -276,8 +272,7 @@
 						</div>
 						<div class="feature-content">
 							<h4>24/7 Fast Support</h4>
-							<p>The trust then manages the policy 
-								and pays the premiums.</p>
+							<p>Support available 24/7 for you.</p>
 						</div>
 						<div class="feature-shape">
 							<img src="assets/images/service/feature-one-shape-1.png" alt="">
