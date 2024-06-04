@@ -571,14 +571,14 @@
 					<div class="row choose">
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-								<span> We Provide</span>
-								<span><i class="bi bi-chevron-double-right"></i> Awesome services</span>
+								<span><i class="bi bi-chevron-double-right"></i> We Provide</span>
+								<span> Awesome services</span>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
-								<span><i class="bi bi-chevron-double-right"></i> High Quality Products</span>
-								<span><i class="bi bi-chevron-double-right"></i> Brand Trust</span>
+								<span> High Quality Products</span>
+								<span> Brand Trust</span>
 							</div>
 						</div>
 					</div>
