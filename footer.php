@@ -24,7 +24,7 @@
 						</div>
 						<div class="footer-wiget-menu">
 							<ul>
-								<li><a href="#">Third-party Manufacturing</a></li>
+								<li><a href="#">Manufacturing</a></li>
 								
 							</ul>
 						</div>
