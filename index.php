@@ -529,8 +529,7 @@
 				<div class="col-lg-4"></div>
 				<div class="col-lg-4 col-md-12">
 					<div class="protection-content">
-						<h4>Where Protection Meets
-							Convenience</h4>
+						<h4>Where Glamour Meets Convenience</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
