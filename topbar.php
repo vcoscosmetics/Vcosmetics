@@ -4,8 +4,7 @@
 				<div class="col-lg-9">
 					<div class="topbar-items">
 						<ul>
-							<li class="line"><i class="bi bi-geo-alt"></i> <a href="#">Plot no. 12, New DLF,
-									Faridabad,Hr</a></li>
+							<li class="line"><i class="bi bi-geo-alt"></i> <a href="#">S-67, Okhla Industrial Area, Phase II,New Delhi-110020</a></li>
 							<li><i class="bi bi-alarm-fill"></i> <a href="#">Mon - Sat: 9:00 - 18:00/ Closed </a></li>
 						</ul>
 					</div>
