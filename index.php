@@ -500,7 +500,7 @@
 						<div class="service-thumb">
 							<img src="assets/images/service/service3.png" alt="">
 							<div class="service-icon">
-								<img src="assets/images/service/service-icon3.png" alt="">
+								<img src="https://img.freepik.com/free-photo/side-view-woman-hair-slugging-night-routine_23-2150396579.jpg?t=st=1717477167~exp=1717480767~hmac=44e26efbc98f8d654ca2c3e702342726c0880a8fef24332fab1a44c5e15b2f0f&w=1060" alt="">
 							</div>
 						</div>
 						<div class="service-content">
