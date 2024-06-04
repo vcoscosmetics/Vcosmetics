@@ -129,7 +129,7 @@
 							</div>
 							<div class="contact-content">
 								<h4>Address</h4>
-								<h6>7515 Carriage Court,</h6>
+								<h6>S-67,Okhla Phase-2</h6>
 							</div>
 						</div>
 						<div class="contact-items">
@@ -138,7 +138,7 @@
 							</div>
 							<div class="contact-content">
 								<h4>Contact Namber</h4>
-								<h6>(+6656) 1598596969</h6>
+								<h6>(+91) 8882102422</h6>
 							</div>
 						</div>
 						<div class="contact-items">
@@ -147,7 +147,7 @@
 							</div>
 							<div class="contact-content">
 								<h4>Email Us</h4>
-								<h6>example@gmail.com</h6>
+								<h6>Vcoscosmetics@gmail.com</h6>
 							</div>
 						</div>
 					</div>
@@ -216,8 +216,9 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<iframe
-						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1635150422284!5m2!1sen!2sbd"
-						width="1920" height="608" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+						src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14029.292898749492!2d77.3095943!3d28.469811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce7817eee8273%3A0x143c0c4fc98f1452!2sCosmetics%20Products%20Manufacturer%20in%20india!5e0!3m2!1sen!2sin!4v1717495048893!5m2!1sen!2sin"
+						width="1920" height="608" style="border:0;" allowfullscreen="" loading="lazy"
+						referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</div>
 			</div>
 		</div>
