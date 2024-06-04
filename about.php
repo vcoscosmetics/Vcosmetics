@@ -137,13 +137,14 @@ include ("topbar.php");
 						</div>
 						<div class="section-main-title about">
 							<h2>Our Company Been Working
-								Successfully For 20 Years</h2>
+								Successfully Since 2019</h2>
 						</div>
 					</div>
 					<div class="about-discription wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-							viverra maecenas accumsan lacus vel facilisis. </p>
+						<p>Since 2019, Vcos Cosmetics has been dedicated to harnessing nature's power with our premium
+							cosmetic products. We ensure top quality, purity, and sustainability in every product,
+							promoting holistic beauty through natural ingredients. Join us in experiencing the
+							transformative benefits of our skincare line. </p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12">
@@ -178,13 +179,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+												<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+												<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -213,13 +214,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+												<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+												<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -248,13 +249,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-													<a href="#">Track Your Claim</a>
+												<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-													<h5>Need Help? <span>+123956(6565)556-02</span></h5>
+												<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
