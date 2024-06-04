@@ -46,159 +46,35 @@
 
 <body>
 	<!-- loder -->
-	<div class="loader-wrapper">
-		<div class="loader-wrap">
-			<div class="preloader">
-				<div id="shifa-preloader" class="shifa-preloader">
-					<div class="layer layer-one"><span class="overlay"></span></div>
-					<div class="animation-preloader">
-						<div class="spinner"></div>
-						<div class="txt-loading">
-							<span data-text-preloader="L" class="letters-loading">
-								L
-							</span>
-							<span data-text-preloader="I" class="letters-loading">
-								I
-							</span>
-							<span data-text-preloader="F" class="letters-loading">
-								F
-							</span>
-							<span data-text-preloader="E" class="letters-loading">
-								E
-							</span>
-							<span data-text-preloader="S" class="letters-loading">
-								S
-							</span>
-							<span data-text-preloader="A" class="letters-loading">
-								A
-							</span>
-							<span data-text-preloader="F" class="letters-loading">
-								F
-							</span>
-							<span data-text-preloader="E" class="letters-loading">
-								E
-							</span>
-						</div>
-					</div>  
-				</div>
-			</div>
-		</div>
-		<div class="loader"></div>
-		<div class="loder-section left-section"></div>
-		<div class="loder-section right-section"></div>
-	</div>
+	
+	<?php
+
+	include ("preloader.php");
+
+	?>
 
 	<!--==================================================-->
 	<!-- Start Topbar Area -->
 	<!--==================================================-->
-	<div class="topbar-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-9">
-					<div class="topbar-items">
-						<ul>
-							<li class="line"><i class="bi bi-geo-alt"></i> <a href="#">103 / B New Market Broklyan -
-									stee</a></li>
-							<li><i class="bi bi-alarm-fill"></i> <a href="#">Mon - Fri: 9:00 - 19:00/ Closed </a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3">
-					<div class="topbar-social">
-						<h4>Follow on:</h4>
-						<ul>
-							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-							<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php
+
+	include ("topbar.php");
+
+	?>
 	<!--==================================================-->
 	<!-- End Topbar Area -->
 	<!--==================================================-->
 
+	<?php
 
-	<!--==================================================-->
-	<!-- Start Header Area -->
-	<!--==================================================-->
-	<header class="header-area" id="sticky-header">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-2">
-					<div class="logo">
-						<a href="index.html"><img src="assets/images/logo.png" alt=""></a>
-					</div>
-				</div>
-				<div class="col-lg-10">
-					<div class="header-menu">
-						<ul>
-							<li><a href="#">Home <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="index.html">Home One</a></li>
-										<li><a href="index-2.html">Home Two</a></li>
-										<li><a href="index-3.html">Home Three</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="#">Services <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="service.html">Services</a></li>
-										<li><a href="life-insurance.html">Life Insurance</a></li>
-										<li><a href="car-insurance.html">Car Insurance</a></li>
-										<li><a href="health-insurance.html">Health Insurance</a></li>
-										<li><a href="home-insurance.html">Home Insurance</a></li>
-										<li><a href="travel-insurance.html">Travel Insurance</a></li>
-										<li><a href="marrige-insurance.html">Marrige Insurance</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="#">Pages <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="service.html">Service</a></li>
-										<li><a href="project-grid.html">Project Grid</a></li>
-										<li><a href="projects-details.html">Project Details</a></li>
-										<li><a href="team.html">Team</a></li>
-										<li><a href="team-detials.html">Team Details</a></li>
-										<li><a href="faq.html">Faq Page</a></li>
-										<li><a href="contact.html">Contact</a></li>
-										<li><a href="error.html">Error Page</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="#">Blog <i class="bi bi-plus"></i></a>
-								<div class="sub-menu">
-									<ul>
-										<li><a href="blog.html">Blog</a></li>
-										<li><a href="blog-details.html">Blog Details</a></li>
-									</ul>
-								</div>
-							</li>
-							<li><a href="contact.html">Contacts Us</a></li>
-						</ul>
-						<div class="header-right">
-							<div class="header-search">
-								<a class="search-box-btn search-box-outer" href="#"><i class="bi bi-search"></i></a>
-							</div>
-							<div class="Lifesafe-btn">
-								<a href="#">Track Your Claim</a>
-							</div>
-							<div class="header-sidebar">
-								<a class="navSidebar-button" href="#"><i class="bi bi-grid-3x3-gap-fill"></i></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
+	include ("header.php");
+
+	?>
+
+
+
+
+
 
 	<!-- Lifesafe Mobile Menu Area -->
 	<div class="mobile-menu-area sticky-menu" id="navbar">
