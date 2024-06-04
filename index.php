@@ -394,7 +394,7 @@
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
 							<img style="height:250px"
-								src="https://img.freepik.com/free-photo/woman-applying-beauty-mask_1303-13043.jpg?t=st=1717477570~exp=1717481170~hmac=eef76c4691deeb6010213590592853aeae2da2e62466e7b42019ec96f4c47cbd&w=1060"
+								src="assets/images/service/faceCare.jpg"
 								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
@@ -436,7 +436,7 @@
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
 						<div class="service-thumb">
 							<img style="height:250px"
-								src="https://img.freepik.com/free-photo/side-view-woman-hair-slugging-night-routine_23-2150396579.jpg?t=st=1717477167~exp=1717480767~hmac=44e26efbc98f8d654ca2c3e702342726c0880a8fef24332fab1a44c5e15b2f0f&w=1060"
+								src="assets/images/service/hairCare.jpg"
 								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon3.png" alt="">
