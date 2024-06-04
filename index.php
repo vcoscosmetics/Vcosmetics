@@ -750,8 +750,8 @@
 						<div class="col-lg-12">
 							<div class="testi-single-box wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
 								<div class="testi-title">
-									<h4>SB Shinur Islam</h4>
-									<span>CEO Transport Ltd.</span>
+									<h4>Sushil Kumar</h4>
+									<span></span>
 								</div>
 								<div class="testi-icon">
 									<i class="bi bi-star-fill"></i>
@@ -761,8 +761,7 @@
 									<i class="bi bi-star-fill"></i>
 								</div>
 								<div class="testi-discription">
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-										sed tempor incididunt ut labore et dolore </p>
+									<p>Had a great experince with Vcos Cosmetics.</p>
 								</div>
 								<div class="testi-qouet">
 									<i class="bi bi-quote"></i>
@@ -772,8 +771,8 @@
 						<div class="col-lg-12">
 							<div class="testi-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 								<div class="testi-title">
-									<h4>SB Shinur Islam</h4>
-									<span>CEO Transport Ltd.</span>
+									<h4>Aman Saifi</h4>
+									<span></span>
 								</div>
 								<div class="testi-icon">
 									<i class="bi bi-star-fill"></i>
@@ -783,8 +782,7 @@
 									<i class="bi bi-star-fill"></i>
 								</div>
 								<div class="testi-discription">
-									<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-										sed tempor incididunt ut labore et dolore </p>
+									<p>Such a good product company with on time services.</p>
 								</div>
 								<div class="testi-qouet">
 									<i class="bi bi-quote"></i>
