@@ -457,7 +457,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="https://img.freepik.com/free-photo/pretty-face-beautiful-smiling-woman-posing-studio-isolated-white-wall_231208-1388.jpg?t=st=1717422987~exp=1717426587~hmac=06e8000ab3b3a28f82b0b3af8d109c44e86a1900df28935cc4459e8ac9c3f5fd&w=1060"
+							<img src="https://img.freepik.com/free-photo/woman-applying-beauty-mask_1303-13043.jpg?t=st=1717477570~exp=1717481170~hmac=eef76c4691deeb6010213590592853aeae2da2e62466e7b42019ec96f4c47cbd&w=1060"
 								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
