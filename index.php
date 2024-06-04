@@ -457,7 +457,8 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img style ="height:250px" src="https://img.freepik.com/free-photo/woman-applying-beauty-mask_1303-13043.jpg?t=st=1717477570~exp=1717481170~hmac=eef76c4691deeb6010213590592853aeae2da2e62466e7b42019ec96f4c47cbd&w=1060"
+							<img style="height:250px"
+								src="https://img.freepik.com/free-photo/woman-applying-beauty-mask_1303-13043.jpg?t=st=1717477570~exp=1717481170~hmac=eef76c4691deeb6010213590592853aeae2da2e62466e7b42019ec96f4c47cbd&w=1060"
 								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
@@ -475,7 +476,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img style ="height:250px" src="assets/images/service/service2.png" alt="">
+							<img style="height:250px" src="assets/images/service/service2.png" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon2.png" alt="">
 							</div>
@@ -498,7 +499,9 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img style ="height:250px" src="https://img.freepik.com/free-photo/side-view-woman-hair-slugging-night-routine_23-2150396579.jpg?t=st=1717477167~exp=1717480767~hmac=44e26efbc98f8d654ca2c3e702342726c0880a8fef24332fab1a44c5e15b2f0f&w=1060" alt="">
+							<img style="height:250px"
+								src="https://img.freepik.com/free-photo/side-view-woman-hair-slugging-night-routine_23-2150396579.jpg?t=st=1717477167~exp=1717480767~hmac=44e26efbc98f8d654ca2c3e702342726c0880a8fef24332fab1a44c5e15b2f0f&w=1060"
+								alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon3.png" alt="">
 							</div>
@@ -557,29 +560,30 @@
 						</div>
 						<div class="section-main-title">
 							<h2>Why You Should Choose Our
-								Insurance Policy.</h2>
+								Products and Services</h2>
 						</div>
 						<div class="choose-discription">
-							<p>Sit amet consectetur adipiscing elites varius montes, massa blandit orci.
-								Sed egestas tellus est aliquet egetristique nisullam pharetra sed tempor sed eivera </p>
+							<p>Our commitment to excellence is unparalleled. With a focus on innovation and quality, we
+								craft cosmetic products and offer third-party manufacturing services that redefine
+								industry standards. </p>
 						</div>
 					</div>
 					<div class="row choose">
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
+								<span> We Provide</span>
+								<span><i class="bi bi-chevron-double-right"></i> Awesome services</span>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
+								<span><i class="bi bi-chevron-double-right"></i> High Quality Products</span>
+								<span><i class="bi bi-chevron-double-right"></i> Brand Trust</span>
 							</div>
 						</div>
 					</div>
 					<div class="Lifesafe-btn choose wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
-						<a href="#">Track Your Claim</a>
+						<a href="#">Contact Us</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12">
