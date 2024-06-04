@@ -1,5 +1,5 @@
 <div class="footer-area">
-		<div class="container">
+		<div class="container" style="overflow:hidden">
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-wiget wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
