@@ -505,7 +505,7 @@
 						</div>
 						<div class="service-content">
 							<h4><a href="service-details.html"> Hair Care</a></h4>
-							<p>We handle the formulation process and cover all expenses to deliver top-quality products.
+							<p>We handle the formulation process to deliver top-quality products.
 							</p>
 						</div>
 						<div class="Lifesafe-btn service">
