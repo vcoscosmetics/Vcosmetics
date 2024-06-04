@@ -271,8 +271,8 @@
 							<img src="assets/images/service/feature-icon4.png" alt="">
 						</div>
 						<div class="feature-content">
-							<h4>24/7 Fast Support</h4>
-							<p>Support available 24/7 for you.</p>
+							<h4>Fast Support</h4>
+							<p>Support available for you.</p>
 						</div>
 						<div class="feature-shape">
 							<img src="assets/images/service/feature-one-shape-1.png" alt="">
