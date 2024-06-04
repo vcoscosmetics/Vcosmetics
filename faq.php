@@ -124,33 +124,35 @@
 						<div id="tab1" class="tab_content">
 							<ul class="accordion">
 								<li>
-									<a class="active inner"><span> 1. Is it Full Transport & Logistics Company? </span> <i
-											class="bi bi-chevron-double-right"></i></a>
-									<p style="display: block;">The time it takes to repair a roof depends on the extent
-										of the damage.
-										For minor repairs, it might take an hour or two. For significant repairs,
-										A or team might be at your home for half a day.</p>
+									<a class="active inner"><span> 1. Does your company specialize in cosmetics
+											manufacturing, including third-party services?
+
+										</span> <i class="bi bi-chevron-double-right"></i></a>
+									<p style="display: block;">Absolutely, we excel in crafting top-notch cosmetics and
+										offering third-party manufacturing solutions.
+									</p>
 								</li>
 								<li>
-									<a class="inner"><span> 2. How to Create my Project in Company? </span> <i
-											class="bi bi-chevron-double-right"></i></a>
-									<p>The time it takes to repair a roof depends on the extent of the damage.
-										For minor repairs, it might take an hour or two. For significant repairs,
-										A or team might be at your home for half a day.</p>
+									<a class="inner"><span> 2. How can I initiate a project with your company for
+											cosmetics production? </span> <i class="bi bi-chevron-double-right"></i></a>
+									<p>Get in touch with us to kickstart your project and discuss your unique cosmetic
+										manufacturing needs.
+									</p>
 								</li>
 								<li>
-									<a class="inner"><span> 3. How to Work in Process of Transport Company? </span> <i
+									<a class="inner"><span> 3. What is the process for working with your cosmetic
+											company, particularly in third-party manufacturing? </span> <i
 											class="bi bi-chevron-double-right"></i></a>
-									<p>The time it takes to repair a roof depends on the extent of the damage.
-										For minor repairs, it might take an hour or two. For significant repairs,
-										A or team might be at your home for half a day.</p>
+									<p>Our process is tailored to ensure seamless collaboration, from conceptualization
+										to production, guaranteeing exceptional results.
+									</p>
 								</li>
 								<li>
-									<a class="inner"><span> 4. What warranties do I have for installation? </span> <i
+									<a class="inner"><span> 4. What warranties do you offer for products manufactured
+											through your third-party services? </span> <i
 											class="bi bi-chevron-double-right"></i></a>
-									<p>The time it takes to repair a roof depends on the extent of the damage.
-										For minor repairs, it might take an hour or two. For significant repairs,
-										A or team might be at your home for half a day.</p>
+									<p>We stand behind the quality of our manufacturing with robust warranties to ensure
+										your complete satisfaction.</p>
 								</li>
 							</ul>
 						</div>
