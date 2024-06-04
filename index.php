@@ -1022,8 +1022,7 @@
 							<a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a>
 						</div>
 						<div class="footer-wiget-text">
-							<h4>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a
-								pretium ligula rutrum and luctus</h4>
+							<h4>Vcos Cosmetics has been dedicated to harnessing nature's power with our premium cosmetic products.</h4>
 						</div>
 						<div class="footer-social">
 							<ul>
