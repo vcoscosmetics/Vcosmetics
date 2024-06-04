@@ -616,10 +616,10 @@
 				<div class="col-lg-12">
 					<div class="section-title text-center wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
 						<div class="section-sub-title">
-							<h4>Check Your Favorite Insurance</h4>
+							<h4>Check Your Favorite Products</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Started Favorite Insurance </h2>
+							<h2>We deliver wide range of products</h2>
 						</div>
 					</div>
 				</div>
@@ -630,9 +630,8 @@
 						<div class="col-lg-12">
 							<div class="tab insurance-list-tab">
 								<ul class="tabs active">
-									<li class="current"><a href="#">House Insurance</a></li>
-									<li><a href="#">Medical Insurance</a></li>
-									<li><a href="#">Medical Insurance</a></li>
+									<li class="current"><a href="#">Products range</a></li>
+									<li><a href="#">Services</a></li>
 								</ul>
 								<div class="tab_content">
 									<div class="tabs_item">
@@ -659,22 +658,14 @@
 													</div>
 													<div class="col-lg-6">
 														<div class="insurance-form-box">
-															<label for="subject">Insurance Type</label><br>
+															<label for="subject">Message</label><br>
 															<input type="text" id="subject" name="subject">
 														</div>
 													</div>
-													<div class="col-lg-12">
-														<div class="limit-title">
-															<h4>Limite Of Balance</h4>
-														</div>
-														<div class="limit-baclance"></div>
-														<div class="limit-value">
-															<h4>Selected Value: 4000</h4>
-														</div>
-													</div>
+
 													<div class="col-lg-6">
 														<div class="insurance-form-box-button">
-															<button type="Submit">Get a Guote</button>
+															<button type="Submit">Submit</button>
 														</div>
 													</div>
 												</div>
@@ -815,9 +806,9 @@
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<div class="testimonial-discription wow fadeInUp" data-wow-delay="0.3s" data-wow-duration="1s">
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-							labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo
-							viverra maecenas accumsan lacus vel facilisis. </p>
+						<p>Our partners consistently commend our unwavering commitment to quality, seamless production
+							processes, and unmatched reliability. They praise our ability to bring their visions to life
+							with precision and efficiency, ensuring every product exceeds expectations. </p>
 					</div>
 				</div>
 			</div>
