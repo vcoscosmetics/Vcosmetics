@@ -610,7 +610,7 @@
 	<!--==================================================-->
 	<!-- Start Insurance Area -->
 	<!--==================================================-->
-	<div class="insurance-area">
+	<!-- <div class="insurance-area">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -781,7 +781,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!--==================================================-->
 	<!-- End Insurance Area -->
