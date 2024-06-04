@@ -57,9 +57,9 @@
 
 	<?php
 
-include ("topbar.php");
+	include ("topbar.php");
 
-?>
+	?>
 	<!--==================================================-->
 	<!-- End Topbar Area -->
 	<!--==================================================-->
@@ -179,13 +179,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-												<a href="tel:+918882102422">Call Now</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-												<h5>Need Help? <span>+91 8882102422</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -214,13 +214,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-												<a href="tel:+918882102422">Call Now</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-												<h5>Need Help? <span>+91 8882102422</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -249,13 +249,13 @@ include ("topbar.php");
 											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
 												data-wow-duration="1s">
 												<div class="Lifesafe-btn">
-												<a href="tel:+918882102422">Call Now</a>
+													<a href="tel:+918882102422">Call Now</a>
 												</div>
 												<div class="about-us-icon">
 													<i class="bi bi-telephone-plus"></i>
 												</div>
 												<div class="about-us-phone">
-												<h5>Need Help? <span>+91 8882102422</span></h5>
+													<h5>Need Help? <span>+91 8882102422</span></h5>
 												</div>
 											</div>
 										</div>
@@ -282,10 +282,10 @@ include ("topbar.php");
 				<div class="col-lg-12">
 					<div class="section-title text-center wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
 						<div class="section-sub-title">
-							<h4>Our Best Services</h4>
+							<h4>Our Services</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Amazing Insurance Services</h2>
+							<h2>Third Party Manufacturing</h2>
 						</div>
 					</div>
 				</div>
@@ -294,15 +294,15 @@ include ("topbar.php");
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="assets/images/service/service1.png" alt="">
+							<img style="height:250px" src="assets/images/service/faceCare.jpg" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon1.png" alt="">
 							</div>
 						</div>
 						<div class="service-content">
-							<h4><a href="service-details.html"> Family Insurance</a></h4>
-							<p>The trust then manages the policy
-								and pays the premiums.</p>
+							<h4><a href="service-details.html"> Face Care</a></h4>
+							<p>We manage the formulation and ensure premium quality in every product.</p>
+
 						</div>
 						<div class="Lifesafe-btn service">
 							<a href="#">Read More +</a>
@@ -312,15 +312,15 @@ include ("topbar.php");
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="assets/images/service/service2.png" alt="">
+							<img style="height:250px" src="assets/images/service/bodyCare.jpeg" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon2.png" alt="">
 							</div>
 						</div>
 						<div class="service-content">
-							<h4><a href="service-details.html"> Business Insurance</a></h4>
-							<p>The trust then manages the policy
-								and pays the premiums.</p>
+							<h4><a href="service-details.html"> Body Care</a></h4>
+							<p>Our team oversees formulation and covers all costs to deliver premium products to you.
+
 						</div>
 						<div class="Lifesafe-btn service">
 							<a href="#">Read More +</a>
@@ -330,15 +330,15 @@ include ("topbar.php");
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img src="assets/images/service/service3.png" alt="">
+							<img style="height:250px" src="assets/images/service/hairCare.jpg" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon3.png" alt="">
 							</div>
 						</div>
 						<div class="service-content">
-							<h4><a href="service-details.html"> Trusted Company</a></h4>
-							<p>The trust then manages the policy
-								and pays the premiums.</p>
+							<h4><a href="service-details.html"> Hair Care</a></h4>
+							<p>We handle the formulation process to deliver top-quality products.
+							</p>
 						</div>
 						<div class="Lifesafe-btn service">
 							<a href="#">Read More +</a>
