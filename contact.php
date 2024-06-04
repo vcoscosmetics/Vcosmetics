@@ -319,78 +319,11 @@
 	<!--==================================================-->
 	<!-- Start Footer Area -->
 	<!--==================================================-->
-	<div class="footer-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-3 col-md-6">
-					<div class="footer-wiget wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
-						<div class="footer-wiget-title">
-							<h4>Quick link</h4>
-						</div>
-						<div class="footer-wiget-menu">
-							<ul>
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Testimonials</a></li>
-								<li><a href="#">Our Mission</a></li>
-								<li><a href="#">Latest News</a></li>
-								<li><a href="#">Contact Us</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="footer-wiget inner2 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-						<div class="footer-wiget-title">
-							<h4>Our Service</h4>
-						</div>
-						<div class="footer-wiget-menu">
-							<ul>
-								<li><a href="#">Travel Insurance</a></li>
-								<li><a href="#">Life Insurance</a></li>
-								<li><a href="#">House Insurance</a></li>
-								<li><a href="#">Car Insurance</a></li>
-								<li><a href="#">Family Insurance</a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<div class="footer-wiget inner">
-						<div class="footer-wiget-logo">
-							<a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a>
-						</div>
-						<div class="footer-wiget-text">
-							<h4>Feugiat a ligula rutrum luctus primis ultrice nteger congue magna at pretium purus a
-								pretium ligula rutrum and luctus</h4>
-						</div>
-						<div class="footer-social">
-							<ul>
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
-								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 pr-0">
-					<div class="footer-wiget inner3 wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
-						<div class="footer-wiget-title">
-							<h4>Working Hours</h4>
-						</div>
-						<div class="company-work-hour">
-							<ul>
-								<li>Mon - Wed <span class="table-text">8.00 AM - 5.00 PM</span></li>
-								<li>Thu - Fri <span>9.00 AM - 4.00 PM</span></li>
-								<li>Saturday <span>9.00 AM - 2.00 PM</span></li>
-								<li class="table-brb">Sunday <span class="style">Clossed</span></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<?php
+
+	include ("footer.php");
+
+	?>
 	<!--==================================================-->
 	<!-- End Footer Area -->
 	<!--==================================================-->
