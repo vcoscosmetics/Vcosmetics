@@ -216,7 +216,7 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<iframe
-						src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14029.292898749492!2d77.3095943!3d28.469811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce7817eee8273%3A0x143c0c4fc98f1452!2sCosmetics%20Products%20Manufacturer%20in%20india!5e0!3m2!1sen!2sin!4v1717495048893!5m2!1sen!2sin"
+						src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14019.88287835201!2d77.2720931!3d28.5405998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3cc26710647%3A0xae7d00e7548d6e77!2sCosmetics%20Manufacturer%20in%20india!5e0!3m2!1sen!2sin!4v1717495457461!5m2!1sen!2sin"
 						width="1920" height="608" style="border:0;" allowfullscreen="" loading="lazy"
 						referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</div>
