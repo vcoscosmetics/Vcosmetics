@@ -1003,7 +1003,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-6">
+				<div class="col-lg-3 col-md-5">
 					<div class="footer-wiget inner2 wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 						<div class="footer-wiget-title">
 							<h4>Our Service</h4>
