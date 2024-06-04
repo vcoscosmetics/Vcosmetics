@@ -412,7 +412,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="service-single-box wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
 						<div class="service-thumb">
-							<img style="height:250px" src="assets/images/service/service2.png" alt="">
+							<img style="height:250px" src="assets/images/service/bodycare.jpg" alt="">
 							<div class="service-icon">
 								<img src="assets/images/service/service-icon2.png" alt="">
 							</div>
