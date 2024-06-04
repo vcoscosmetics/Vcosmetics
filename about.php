@@ -361,8 +361,7 @@
 				<div class="col-lg-4"></div>
 				<div class="col-lg-4 col-md-6">
 					<div class="protection-content">
-						<h4>Where Protection Meets
-							Convenience</h4>
+						<h4>Where Glamour Meets Convenience</h4>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-6">
@@ -389,30 +388,31 @@
 							<h4>Why Choose Us</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Why You Should Choose Our
-								Insurance Policy.</h2>
+						<h2>Why You Should Choose Our
+								Products and Services</h2>
 						</div>
 						<div class="choose-discription">
-							<p>Sit amet consectetur adipiscing elites varius montes, massa blandit orci.
-								Sed egestas tellus est aliquet egetristique nisullam pharetra sed tempor sed eivera </p>
+							<p>Our commitment to excellence is unparalleled. With a focus on innovation and quality, we
+								craft cosmetic products and offer third-party manufacturing services that redefine
+								industry standards. </p>
 						</div>
 					</div>
 					<div class="row choose">
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
+							<span><i class="bi bi-chevron-double-right"></i> We Provide</span>
+								<span> Awesome services</span>
 							</div>
 						</div>
 						<div class="col-lg-6 col-md-12">
 							<div class="choose-list wow fadeInUp" data-wow-delay="0.6s" data-wow-duration="1s">
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
-								<span><i class="bi bi-chevron-double-right"></i> We provide awesome services</span>
+							<span> High Quality Products</span>
+								<span> Brand Trust</span>
 							</div>
 						</div>
 					</div>
 					<div class="Lifesafe-btn choose wow fadeInUp" data-wow-delay="0.8s" data-wow-duration="1s">
-						<a href="#">Track Your Claim</a>
+						<a href="#">Contact Us</a>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12">
