@@ -1028,7 +1028,6 @@
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
 								<li><a href="#"><i class="fab fa-instagram"></i></a></li>
 							</ul>
 						</div>
@@ -1041,10 +1040,10 @@
 						</div>
 						<div class="company-work-hour">
 							<ul>
-								<li>Mon - Wed <span class="table-text">8.00 AM - 5.00 PM</span></li>
-								<li>Thu - Fri <span>9.00 AM - 4.00 PM</span></li>
-								<li>Saturday <span>9.00 AM - 2.00 PM</span></li>
-								<li class="table-brb">Sunday <span class="style">Clossed</span></li>
+								<li>Mon - Wed <span class="table-text">10.00 AM - 6.00 PM</span></li>
+								<li>Thu - Fri <span>10.00 AM - 6.00 PM</span></li>
+								<li>Saturday <span>10.00 AM - 6.00 PM</span></li>
+								<li class="table-brb">Sunday <span class="style">Closed</span></li>
 							</ul>
 						</div>
 					</div>
