@@ -9,16 +9,16 @@
 				<div class="col-lg-10">
 					<div class="header-menu">
 						<ul>
-							<li><a href="#">Home</a>
+							<li><a href="index.php">Home</a>
 							</li>
-							<li><a href="about.html">About Us</a></li>
-							<li><a href="#">Products </a>
+							<li><a href="about.php">About Us</a></li>
+							<li><a href="products.php">Products </a>
 							</li>
-							<li><a href="service.html">Service </a>
+							<li><a href="service.php">Service </a>
 							</li>
-							<li><a href="#">FAQ's </a>
+							<li><a href="faq.php">FAQ's </a>
 							</li>
-							<li><a href="contact.html">Contacts Us</a></li>
+							<li><a href="contact.php">Contacts Us</a></li>
 						</ul>
 						<div class="header-right">
 							<div class="header-search">
