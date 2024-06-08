@@ -266,46 +266,12 @@
 												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
 													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best Products </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														<li><i class="bi bi-chevron-double-right"></i> Delivering exceptional beauty products.
 														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Fostering a culture of self-expression.
+
 														</li>
-													</ul>
-												</div>
-											</div>
-											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
-												data-wow-duration="1s">
-												<div class="Lifesafe-btn">
-													<a href="tel:+918882102422">Call Now</a>
-												</div>
-												<div class="about-us-icon">
-													<i class="bi bi-telephone-plus"></i>
-												</div>
-												<div class="about-us-phone">
-													<h5>Need Help? <span>+91 8882102422</span></h5>
-												</div>
-											</div>
-										</div>
-									</div>
-									<div class="tabs_item" style="display: none;">
-										<div class="row">
-											<div class="col-lg-4 col-md-12 col-sm-6">
-												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
-													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
-												</div>
-											</div>
-											<div class="col-lg-8 col-md-12 col-sm-6">
-												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
-													data-wow-duration="1s">
-													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
-														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Enhancing community well-being.
 														</li>
 													</ul>
 												</div>
@@ -336,11 +302,45 @@
 												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
 													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														<li><i class="bi bi-chevron-double-right"></i> Leading in beauty innovation.
 														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Empowering individual confidence.
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Building a legacy of excellence.
+														</li>
+													</ul>
+												</div>
+											</div>
+											<div class="about-bottom wow fadeInUp" data-wow-delay="0.6s"
+												data-wow-duration="1s">
+												<div class="Lifesafe-btn">
+													<a href="tel:+918882102422">Call Now</a>
+												</div>
+												<div class="about-us-icon">
+													<i class="bi bi-telephone-plus"></i>
+												</div>
+												<div class="about-us-phone">
+													<h5>Need Help? <span>+91 8882102422</span></h5>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="tabs_item" style="display: none;">
+										<div class="row">
+											<div class="col-lg-4 col-md-12 col-sm-6">
+												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
+													data-wow-duration="1s">
+													<img src="assets/images/about/about-thumb2.png" alt="">
+												</div>
+											</div>
+											<div class="col-lg-8 col-md-12 col-sm-6">
+												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
+													data-wow-duration="1s">
+													<ul>
+														<li><i class="bi bi-chevron-double-right"></i> Achieving consistent growth. </li>
+														<li><i class="bi bi-chevron-double-right"></i> Expanding global reach.
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Investing in sustainable practices.
 														</li>
 													</ul>
 												</div>
