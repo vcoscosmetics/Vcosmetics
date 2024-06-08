@@ -521,13 +521,13 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="choose-thumb-items">
 						<div class="choose-thumb wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s">
-							<img src="assets/images/resource/choose1.jpg" style="height:50px; width:50px;" alt="">
+							<img src="assets/images/resource/choose1.jpg" style="height:200px; width:300px;" alt="">
 						</div>
 						<div class="choose-thumb wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-							<img src="assets/images/resource/choose2.jpg" style="height:50px; width:50px;" alt="">
+							<img src="assets/images/resource/choose2.jpg" style="height:200px; width:350px;" alt="">
 						</div>
 						<div class="choose-thumb three">
-							<img src="assets/images/resource/choose3.jpg" style="height:50px; width:50px;" alt="">
+							<img src="assets/images/resource/choose3.jpg" style="height:400px; width:250px;" alt="">
 						</div>
 					</div>
 				</div>
