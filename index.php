@@ -524,7 +524,7 @@
 							<img src="assets/images/resource/choose1.jpg" style="height:200px; width:300px;" alt="">
 						</div>
 						<div class="choose-thumb wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
-							<img src="assets/images/resource/choose2.jpg" style="height:200px; width:350px;" alt="">
+							<img src="assets/images/resource/choose2.jpg" style="height:250px; width:400px;" alt="">
 						</div>
 						<div class="choose-thumb three">
 							<img src="assets/images/resource/choose3.jpg" style="height:450px; width:300px;" alt="">
