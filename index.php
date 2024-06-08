@@ -527,7 +527,7 @@
 							<img src="assets/images/resource/choose2.jpg" style="height:200px; width:350px;" alt="">
 						</div>
 						<div class="choose-thumb three">
-							<img src="assets/images/resource/choose3.jpg" style="height:400px; width:250px;" alt="">
+							<img src="assets/images/resource/choose3.jpg" style="height:450px; width:300px;" alt="">
 						</div>
 					</div>
 				</div>
