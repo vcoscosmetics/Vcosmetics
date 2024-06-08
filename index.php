@@ -521,7 +521,7 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="choose-thumb-items">
 						<div class="choose-thumb wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s">
-							<img src="assets/images/resource/choose1.jpg" style="height:175px; width: 275px;" alt="">
+							<img src="assets/images/resource/choose1.jpg" style="height:250px; width: 350px;" alt="">
 						</div>
 						<div class="choose-thumb wow fadeInUp" data-wow-delay="0.4s" data-wow-duration="1s">
 							<img src="assets/images/resource/choose2.jpg" style="height:200px; width:350px;" alt="">
