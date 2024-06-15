@@ -13,12 +13,7 @@
 				</div>
 				<div class="col-lg-3">
 					<div class="topbar-social">
-						<h4>Follow on:</h4>
-						<ul>
-							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-instagram"></i></a></li>
-						</ul>
+	
 					</div>
 				</div>
 			</div>
