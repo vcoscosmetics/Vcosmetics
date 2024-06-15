@@ -10,11 +10,11 @@
 					<div class="sidebar-info-contents">
 						<div class="content-inner">
 							<div class="sidebar-logo">
-								<a href="index.html"><img src="assets/images/logo.png" alt="logo"></a>
+								<a href="index.php"><img src="assets/images/logo.png" alt="logo"></a>
 							</div>
 							<div class="sidebar-widget-menu">
 								<ul>
-									<li class="dropdown"><a href="#" data-toggle="dropdown">Home <i
+									<li class="dropdown"><a href="index.php" data-toggle="dropdown">Home <i
 												></i></a>
 									
 									</li>
