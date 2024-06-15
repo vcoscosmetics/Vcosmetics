@@ -63,11 +63,11 @@
 									</li>
 								</ul>
 							</div>
-							<ul class="social-box">
+							<!-- <ul class="social-box">
 								<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
 								<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
 								<li class="linkedin"><a href="#" class="fab fa-twitter"></a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 				</div>
