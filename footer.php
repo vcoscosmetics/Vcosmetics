@@ -12,7 +12,7 @@
 								<li><a href="#">Our Products</a></li>
 								<li><a href="#">Our Vision</a></li>
 								<li><a href="#">Latest News</a></li>
-								<li><a href="#">Contact Us</a></li>
+								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</div>
 					</div>
