@@ -951,10 +951,10 @@
 							<div class="contact-info">
 								<h2>Contact Info</h2>
 								<ul class="list-style-one">
-									<li><i class="bi bi-geo-alt-fill"></i>6391 Elgin St. Celina, Delaware</li>
+									<li><i class="bi bi-geo-alt-fill"></i>S-67, Okhla Industrial Area, Phase II, New Delhi-110020</li>
 									<li><i class="bi bi-telephone-fill"></i>(+001) 123-456-789</li>
-									<li><i class="bi bi-envelope"></i> info@example.com</li>
-									<li><i class="bi bi-alarm-fill"></i> Week Days: 08.00 to 10.00
+									<li><i class="bi bi-envelope"></i> vcoscosmetics@gmail.com</li>
+									<li><i class="bi bi-alarm-fill"></i> Week Days: 10.00 to 18.00
 									</li>
 								</ul>
 							</div>
