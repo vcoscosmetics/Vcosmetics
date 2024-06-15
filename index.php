@@ -907,10 +907,7 @@
 								<ul>
 									<li class="dropdown"><a href="#" data-toggle="dropdown">Home <i
 												></i></a>
-										<ul class="dropdown-menu">
-											<li><a href="index.php">Home One</a></li>
 									
-										</ul>
 									</li>
 									<li class="dropdown"><a href="about.php" data-toggle="dropdown">About</a></li>
 									<!-- <li class="dropdown"><a href="#" data-toggle="dropdown">Service <i
