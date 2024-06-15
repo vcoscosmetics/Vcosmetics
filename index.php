@@ -908,13 +908,12 @@
 									<li class="dropdown"><a href="#" data-toggle="dropdown">Home <i
 												class="icon-arrow"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="index.html">Home One</a></li>
-											<li><a href="index-2.html">Home Two</a></li>
-											<li><a href="index-3.html">Home Three</a></li>
+											<li><a href="index.php">Home One</a></li>
+									
 										</ul>
 									</li>
-									<li class="dropdown"><a href="about.html" data-toggle="dropdown">About</a></li>
-									<li class="dropdown"><a href="#" data-toggle="dropdown">Service <i
+									<li class="dropdown"><a href="about.php" data-toggle="dropdown">About</a></li>
+									<!-- <li class="dropdown"><a href="#" data-toggle="dropdown">Service <i
 												class="icon-arrow"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="service.html">Services</a></li>
@@ -925,28 +924,28 @@
 											<li><a href="travel-insurance.html">Travel Insurance</a></li>
 											<li><a href="marrige-insurance.html">Marrige Insurance</a></li>
 										</ul>
-									</li>
+									</li> -->
 									<li class="dropdown"><a href="#project" data-toggle="dropdown">Pages <i
 												class="icon-arrow"></i></a>
 										<ul class="dropdown-menu">
-											<li><a href="service.html">Service</a></li>
-											<li><a href="project-grid.html">Project Grid</a></li>
-											<li><a href="projects-details.html">Project Details</a></li>
-											<li><a href="team.html">Team</a></li>
-											<li><a href="team-detials.html">Team Details</a></li>
-											<li><a href="faq.html">Faq Page</a></li>
-											<li><a href="contact.html">Contact</a></li>
-											<li><a href="error.html">Error Page</a></li>
+											<li><a href="service.php">Service</a></li>
+											<!-- <li><a href="project-grid.html">Project Grid</a></li> -->
+											<!-- <li><a href="projects-details.html">Project Details</a></li> -->
+											<!-- <li><a href="team.html">Team</a></li> -->
+											<!-- <li><a href="team-detials.html">Team Details</a></li> -->
+											<li><a href="faq.php">Faq Page</a></li>
+											<!-- <li><a href="contact.html">Contact</a></li> -->
+											<!-- <li><a href="error.html">Error Page</a></li> -->
 										</ul>
 									</li>
-									<li class="dropdown"><a href="#" data-toggle="dropdown">Blog <i
+									<!-- <li class="dropdown"><a href="#" data-toggle="dropdown">Blog <i
 												class="icon-arrow"></i></a>
 										<ul class="dropdown-menu">
 											<li><a href="blog.html">Blog</a></li>
 											<li><a href="blog-details.html">Blog Details</a></li>
 										</ul>
-									</li>
-									<li class="dropdown"><a href="contact.html" data-toggle="dropdown">Contacts</a></li>
+									</li> -->
+									<li class="dropdown"><a href="contact.php" data-toggle="dropdown">Contacts</a></li>
 								</ul>
 							</div>
 							<div class="contact-info">
@@ -963,8 +962,6 @@
 								<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
 								<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
 								<li class="linkedin"><a href="#" class="fab fa-twitter"></a></li>
-								<li class="instagram"><a href="#" class="fab fa-pinterest-p"></a></li>
-								<li class="youtube"><a href="#" class="fab fa-linkedin-in"></a></li>
 							</ul>
 						</div>
 					</div>
