@@ -455,7 +455,7 @@ Tags: 	agency, Business Agency, Business Consultant, business optimization, comp
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(255, 255, 255, 0.20);
+    /* background-color: rgba(255, 255, 255, 0.20); */
     content: "";
     z-index: -1;
 }
