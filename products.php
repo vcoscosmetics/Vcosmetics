@@ -83,7 +83,19 @@
                     <h5 class="card-title">Aloevera Juice</h5>
                     <p style="font-weight: 600;" class="card-text">Price: 198</p>
 
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, renowned for its healing properties and versatile benefits for skin and hair.
+                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, </p>
+                    <a href="#" class="btn btn-primary">Queries</a>
+                </div>
+            </div>
+
+
+            <div class="card" style="  height: auto;">
+                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Aloevera Juice</h5>
+                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
+
+                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, 
                     </p>
                     <a href="#" class="btn btn-primary">Queries</a>
                 </div>
@@ -96,8 +108,7 @@
                     <h5 class="card-title">Aloevera Juice</h5>
                     <p style="font-weight: 600;" class="card-text">Price: 198</p>
 
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, renowned for its healing properties and versatile benefits for skin and hair.
-                    </p>
+                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, </p>
                     <a href="#" class="btn btn-primary">Queries</a>
                 </div>
             </div>
@@ -109,21 +120,7 @@
                     <h5 class="card-title">Aloevera Juice</h5>
                     <p style="font-weight: 600;" class="card-text">Price: 198</p>
 
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, renowned for its healing properties and versatile benefits for skin and hair.
-                    </p>
-                    <a href="#" class="btn btn-primary">Queries</a>
-                </div>
-            </div>
-
-
-            <div class="card" style="  height: auto;">
-                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Aloevera Juice</h5>
-                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
-
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, renowned for its healing properties and versatile benefits for skin and hair.
-                    </p>
+                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves,                     </p>
                     <a href="#" class="btn btn-primary">Queries</a>
                 </div>
             </div>
