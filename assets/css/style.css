@@ -43,6 +43,11 @@ Tags: 	agency, Business Agency, Business Consultant, business optimization, comp
  <-- Lifesafe Header Top Menu Area Css-->
 ===================================================*/
 
+ol, ul{
+    padding-left: 0 !important;
+}
+
+
 .topbar-area {
     padding: 15px 0;
     background: #25826a;
