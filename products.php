@@ -1,3 +1,7 @@
+<?php
+include("connection/conn.php");
+
+?>
 <!DOCTYPE HTML>
 <html lang="en-US">
 
@@ -96,6 +100,7 @@
             opacity: 0; 
             transform: scale(0.8); 
             animation: fadeInUp 0.5s ease-out forwards; 
+            position: relative;
         } 
   
         .form-container { 
@@ -120,14 +125,26 @@
             box-sizing: border-box; 
         } 
   
-        .btn-submit, 
-        .btn-close-popup { 
+        .btn-submit{ 
             padding: 12px 24px; 
             border: none; 
             border-radius: 8px; 
             cursor: pointer; 
             transition: background-color 0.3s ease, color 0.3s ease; 
         } 
+        .btn-close-popup { 
+            padding: 0px 12px; 
+            border: none; 
+            border-radius: 50%; 
+            cursor: pointer; 
+            transition: background-color 0.3s ease, color 0.3s ease; 
+            background: #25816A !important;
+        } 
+        .Popup-header{
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-end;
+        }
   
         .btn-submit { 
             background-color: green; 
@@ -169,11 +186,11 @@
 <body>
     <!-- loder -->
 
-    <?php
+    <!-- <?php
 
-    include("preloader.php");
+    // include("preloader.php");
 
-    ?>
+    ?> -->
 
     <!--==================================================-->
     <!-- Start Topbar Area -->
@@ -198,60 +215,41 @@
 
         <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap:2rem; margin-bottom:5rem; padding:5rem;">
 
+        <?php
+        $sql_query="SELECT * FROM `products-list`";
+        $result = mysqli_query( $conn, $sql_query );
+        while($row = mysqli_fetch_assoc($result)) {
+        ?>
             <div class="card" style=" height: auto;">
-                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
+                <img src="<?php echo $row['Image']; ?>" class="card-img-top" style="height: 15rem;" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Aloevera Juice</h5>
-                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
+                    <h5 class="card-title"><?php echo $row['name']; ?></h5>
+                    <p style="font-weight: 600;" class="card-text">Price: <?php echo $row['price']; ?></p>
 
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, </p>
+                    <p class="card-text"><?php echo $row['short_des']; ?> </p>
                     <button class="btn-open-popup" onclick="togglePopup()" >Queries</button>
                 </div>
             </div>
-
-
-            <div class="card" style="  height: auto;">
-                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Aloevera Juice</h5>
-                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
-
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, 
-                    </p>
-                    <button class="btn-open-popup" onclick="togglePopup()" >Queries</button>
-                </div>
-            </div>
-
-
-            <div class="card" style="  height: auto;">
-                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Aloevera Juice</h5>
-                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
-
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves, </p>
-                    <button class="btn-open-popup" onclick="togglePopup()" >Queries</button>
-                </div>
-            </div>
-
-
-            <div class="card" style="  height: auto;">
-                <img src="https://5.imimg.com/data5/UD/JM/TT/SELLER-1503280/premium-quality-aloevera-juice-500-ml-500x500.jpg" class="card-img-top" style="height: 15rem;" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Aloevera Juice</h5>
-                    <p style="font-weight: 600;" class="card-text">Price: 198</p>
-
-                    <p class="card-text">Soothing, hydrating gel extracted from aloe vera leaves,                     </p>
-                    <button class="btn-open-popup" onclick="togglePopup()" >Queries</button>
-                </div>
-            </div>
+        <?php
+        }
+        ?>
+        
+           
         </div>
     </div>
   
     <div id="popupOverlay" 
          class="overlay-container"> 
         <div class="popup-box"> 
-            <h2 style="color: green;">Query Form</h2> 
+        <div class="Popup-header">
+                 
+                 <button class="btn-close-popup" 
+                         onclick="togglePopup()"> 
+                         X
+                 </button>
+             </div>
+        <h2 style="color: green;">Query Form</h2>
+            
             <form class="form-container"> 
                 <label class="form-label" 
                        for="name"> 
@@ -288,10 +286,7 @@
                   </button> 
             </form> 
   
-            <button class="btn-close-popup" 
-                    onclick="togglePopup()"> 
-              Close 
-              </button> 
+             
         </div> 
     </div>
 
