@@ -8,10 +8,10 @@
 						</div>
 						<div class="footer-wiget-menu">
 							<ul>
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Our Products</a></li>
-								<li><a href="#">Our Vision</a></li>
-								<li><a href="#">Latest News</a></li>
+								<li><a href="about.php">About Us</a></li>
+								<li><a href="products.php">Our Products</a></li>
+								<li><a href="our-vision.php">Our Vision</a></li>
+								<li><a href="faq.php">FAQ</a></li>
 								<li><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</div>
@@ -24,7 +24,7 @@
 						</div>
 						<div class="footer-wiget-menu">
 							<ul>
-								<li><a href="#">3rd-party Manufacturing</a></li>
+								<li><a href="3rd-party Manufacturing.php">3rd-party Manufacturing</a></li>
 								
 							</ul>
 						</div>
