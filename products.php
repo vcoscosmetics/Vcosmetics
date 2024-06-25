@@ -91,7 +91,7 @@
             padding: 24px; 
             border-radius: 12px; 
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); 
-            width: 320px; 
+            width: 520px; 
             text-align: center; 
             opacity: 0; 
             transform: scale(0.8); 
@@ -251,11 +251,11 @@
     <div id="popupOverlay" 
          class="overlay-container"> 
         <div class="popup-box"> 
-            <h2 style="color: green;">Popup Form</h2> 
+            <h2 style="color: green;">Query Form</h2> 
             <form class="form-container"> 
                 <label class="form-label" 
                        for="name"> 
-                  Username: 
+                  Name: 
                   </label> 
                 <input class="form-input" type="text" 
                        placeholder="Enter Your Username" 
@@ -267,6 +267,20 @@
                        placeholder="Enter Your Email"
                        id="email" 
                        name="email" required> 
+                       <label class="form-label" 
+                       for="name"> 
+                  Contact No: 
+                  </label> 
+                <input class="form-input" type="text" 
+                       placeholder="Enter Your Username" 
+                       id="name" name="name" required> 
+                       <label class="form-label" 
+                       for="name"> 
+                  State: 
+                  </label> 
+                <input class="form-input" type="text" 
+                       placeholder="Enter Your Username" 
+                       id="name" name="name" required> 
   
                 <button class="btn-submit" 
                         type="submit"> 
