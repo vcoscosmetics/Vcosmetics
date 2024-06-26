@@ -59,11 +59,11 @@ include("connection/conn.php");
 <body>
     <!-- loder -->
 
-    <!-- <?php
+    <?php
 
-    // include("preloader.php");
+    include("preloader.php");
 
-    ?> -->
+    ?>
 
     <!--==================================================-->
     <!-- Start Topbar Area -->
