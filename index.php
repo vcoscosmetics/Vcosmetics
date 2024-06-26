@@ -225,7 +225,7 @@
 			<div class="row">
 				<div class="col-lg-5 col-md-12">
 					<div class="about-thumb wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
-						<img src="assets/images/about/about-thumb.png" alt="">
+						<img style="object-fit: cover;" src="assets/images/about/about-thumb.jpeg" alt="">
 					</div>
 				</div>
 				<div class="col-lg-7 col-md-12">
