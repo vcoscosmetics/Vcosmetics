@@ -123,11 +123,11 @@
 	<!-- Start About Area -->
 	<!--==================================================-->
 	<div class="about-area inner-page">
-		<div class="container">
+	<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12">
 					<div class="about-thumb wow fadeInRight" data-wow-delay="0.3s" data-wow-duration="1s">
-						<img src="assets/images/about/about-thumb.png" alt="">
+						<img style="object-fit: cover;" src="assets/images/about/about-thumb.jpeg" alt="">
 					</div>
 				</div>
 				<div class="col-lg-7 col-md-12">
@@ -144,7 +144,8 @@
 						<p>Since 2019, Vcos Cosmetics has been dedicated to harnessing nature's power with our premium
 							cosmetic products. We ensure top quality, purity, and sustainability in every product,
 							promoting holistic beauty through natural ingredients. Join us in experiencing the
-							transformative benefits of our skincare line. </p>
+							transformative benefits of our skincare line.
+						</p>
 					</div>
 					<div class="row">
 						<div class="col-lg-12">
@@ -157,21 +158,22 @@
 								<div class="tab_content">
 									<div class="tabs_item">
 										<div class="row">
-											<div class="col-lg-4 col-md-6 col-sm-6">
+											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.jpeg" alt="">
 												</div>
 											</div>
-											<div class="col-lg-8 col-md-6 col-sm-6">
+											<div class="col-lg-8 col-md-12 col-sm-6">
 												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
 													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														<li><i class="bi bi-chevron-double-right"></i> Delivering exceptional beauty products.
 														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Fostering a culture of self-expression.
+
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Enhancing community well-being.
 														</li>
 													</ul>
 												</div>
@@ -192,21 +194,21 @@
 									</div>
 									<div class="tabs_item" style="display: none;">
 										<div class="row">
-											<div class="col-lg-4 col-md-6 col-sm-6">
+											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.1.jpeg" alt="">
 												</div>
 											</div>
-											<div class="col-lg-8 col-md-6 col-sm-6">
+											<div class="col-lg-8 col-md-12 col-sm-6">
 												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
 													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														<li><i class="bi bi-chevron-double-right"></i> Leading in beauty innovation.
 														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Empowering individual confidence.
+														</li>
+														<li><i class="bi bi-chevron-double-right"></i> Building a legacy of excellence.
 														</li>
 													</ul>
 												</div>
@@ -227,21 +229,20 @@
 									</div>
 									<div class="tabs_item" style="display: none;">
 										<div class="row">
-											<div class="col-lg-4 col-md-6 col-sm-6">
+											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.2.jpeg" alt="">
 												</div>
 											</div>
-											<div class="col-lg-8 col-md-6 col-sm-6">
+											<div class="col-lg-8 col-md-12 col-sm-6">
 												<div class="about-list wow fadeInUp" data-wow-delay="0.4s"
 													data-wow-duration="1s">
 													<ul>
-														<li><i class="bi bi-chevron-double-right"></i> Your business
-															deserves best software </li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Composition
+														<li><i class="bi bi-chevron-double-right"></i> Achieving consistent growth. </li>
+														<li><i class="bi bi-chevron-double-right"></i> Expanding global reach.
 														</li>
-														<li><i class="bi bi-chevron-double-right"></i> Board Committees
+														<li><i class="bi bi-chevron-double-right"></i> Investing in sustainable practices.
 														</li>
 													</ul>
 												</div>
