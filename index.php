@@ -117,7 +117,7 @@
 				</div>
 			</div>
 			<div class="slide-item two">
-				<div class="image-layer" style="background-image: url('assets/images/slider/sitebanner.jpeg'); "></div>
+				<div class="image-layer" style="background-image: url('assets/images/slider/mysitebanner.jpeg'); "></div>
 				<div class="container">
 					<div class="slider-content">
 						<div class="slider-sub-title">
