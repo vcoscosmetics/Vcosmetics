@@ -259,7 +259,7 @@
 											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.jpeg" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-12 col-sm-6">
@@ -295,7 +295,7 @@
 											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.1.jpeg" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-12 col-sm-6">
@@ -330,7 +330,7 @@
 											<div class="col-lg-4 col-md-12 col-sm-6">
 												<div class="about-thumb wow fadeInRight" data-wow-delay="0.2s"
 													data-wow-duration="1s">
-													<img src="assets/images/about/about-thumb2.png" alt="">
+													<img src="assets/images/about/about-thumb2.2.jpeg" alt="">
 												</div>
 											</div>
 											<div class="col-lg-8 col-md-12 col-sm-6">
