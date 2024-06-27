@@ -25,7 +25,7 @@
 								<a class="search-box-btn search-box-outer" href="#"><i class="bi bi-search"></i></a>
 							</div>
 							<div class="Lifesafe-btn">
-								<a href="#">Call Now</a>
+								<a href="tel: +91 8882102422">Call Now</a>
 							</div>
 							<div class="header-sidebar">
 								<a class="navSidebar-button" href="#"><i class="bi bi-grid-3x3-gap-fill"></i></a>
