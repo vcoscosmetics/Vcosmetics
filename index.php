@@ -92,7 +92,7 @@
 	<section class="banner-section">
 		<div class="banner-carousel owl-carousel">
 			<div class="slide-item one">
-				<div class="image-layer" style="background-image: url('assets/images/slider/sitebanner.jpeg');"></div>
+				<div class="image-layer" style="background-image: url('assets/images/slider/mysitebanner.jpeg');"></div>
 				<div class="container">
 					<div class="slider-content">
 						<div class="slider-sub-title">
