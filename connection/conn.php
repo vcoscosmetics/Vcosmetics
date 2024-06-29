@@ -1,7 +1,7 @@
 <?php
-$dbname="vcosmetics";
-$dbuser="root";
-$pass="";
+$dbname="u835332569_vcosmetic";
+$dbuser="u835332569_vcos_admin";
+$pass="Binu@#$321";
 $host="localhost";
 $conn = new mysqli($host,$dbuser,$pass,$dbname);
 
