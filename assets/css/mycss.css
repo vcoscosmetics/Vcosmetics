@@ -134,3 +134,8 @@
 
     font-size: 0.8rem;
 }
+
+
+.card .card-body button{
+    padding: 5px 15px;
+}
