@@ -135,7 +135,9 @@
     font-size: 0.8rem;
 }
 
-
+.card .card-body .price{
+    background-image: url("assets/images/about/ price tag.png");
+}
 .card .card-body button{
     padding: 5px 15px;
 }
