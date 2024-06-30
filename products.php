@@ -45,6 +45,9 @@ include ("connection/conn.php");
     <link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <!-- modernizr js -->
     <script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
@@ -95,10 +98,11 @@ include ("connection/conn.php");
             while ($row = mysqli_fetch_assoc($result)) {
                 ?>
                 <div class="card" style=" height: auto;">
-                    <img src="<?php echo $row['image']; ?>" class="card-img-top"  alt="...">
+                    <img src="<?php echo $row['image']; ?>" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $row['name']; ?></h5>
-                        <p style="" class="card-text price">Price: <i class="fa-solid fa-indian-rupee-sign"></i><?php echo $row['price']; ?></p>
+                        <p style="" class="card-text price">Price: <i
+                                class="fa-solid fa-indian-rupee-sign"></i><?php echo $row['price']; ?></p>
 
                         <p class="card-text"><?php echo $row['short-des']; ?> </p>
                         <button class="btn-open-popup" onclick="togglePopup()">Queries</button>
