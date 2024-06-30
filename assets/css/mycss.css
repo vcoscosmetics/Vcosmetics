@@ -143,3 +143,11 @@
 .card .card-body button{
     padding: 5px 15px;
 }
+
+
+
+.card-img-top{
+    height: 10rem;
+    width: 50%;
+    margin: auto;
+}
