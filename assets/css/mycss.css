@@ -136,7 +136,7 @@
 }
 
 .card .card-body .price{
-    background-image: url("assets/images/about/ price tag.png");
+    background-image: url("assets/images/about/ price tag.png") !important;
     font-weight: 600; 
     font-size: 1.2rem !important; 
 }
