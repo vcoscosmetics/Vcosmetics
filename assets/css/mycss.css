@@ -137,6 +137,8 @@
 
 .card .card-body .price{
     background-image: url("assets/images/about/ price tag.png");
+    font-weight: 600; 
+    font-size: 1.2rem; 
 }
 .card .card-body button{
     padding: 5px 15px;
