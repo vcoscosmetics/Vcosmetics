@@ -98,7 +98,7 @@ include ("connection/conn.php");
                     <img src="<?php echo $row['image']; ?>" class="card-img-top"  alt="...">
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $row['name']; ?></h5>
-                        <p style="" class="card-text price">Price: <?php echo $row['price']; ?></p>
+                        <p style="" class="card-text price">Price: <i class="fa-solid fa-indian-rupee-sign"></i><?php echo $row['price']; ?></p>
 
                         <p class="card-text"><?php echo $row['short-des']; ?> </p>
                         <button class="btn-open-popup" onclick="togglePopup()">Queries</button>
