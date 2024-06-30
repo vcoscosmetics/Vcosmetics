@@ -104,7 +104,7 @@ include ("connection/conn.php");
                         <p style="" class="card-text price" >Price: <i
                                 class="fa-solid fa-indian-rupee-sign" style = "font-size: 1rem"></i><?php echo $row['price']; ?></p>
 
-                        <!-- <p class="card-text"><?php echo $row['short-des']; ?> </p> -->
+                        <p class="card-text"><?php echo $row['short-des']; ?> </p>
                         <button class="btn-open-popup" onclick="togglePopup()">View More</button>
                     </div>
                 </div>
