@@ -118,7 +118,7 @@ include ("connection/conn.php");
             $result = mysqli_query($conn, $sql_query);
             while ($row = mysqli_fetch_assoc($result)) {
                 ?>
-                <div class="card" style=" height: auto;">
+                <div class="card" style=" height: 100%;">
                     <img src="<?php echo $row['image']; ?>" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $row['name']; ?></h5>
