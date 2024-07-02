@@ -88,52 +88,33 @@ include ("connection/conn.php");
     ?>
 
 
-<div class="mobile-menu-area sticky-menu" id="navbar">
-		<div class="mobile-menu">
-			<div class="mobile-logo">
-				<a href="index.html"><img src="assets/images/logo.png" alt=""></a>
-			</div>
-			<div class="side-menu-info">
-				<div class="sidebar-menu">
-					<a class="navSidebar-button" href="#"><i class="bi bi-justify-right"></i></a>
-				</div>
-			</div>
-		</div>
-	</div>
-
-    
-	<!--==================================================-->
-	<!-- End Header Area -->
-	<!--==================================================-->
+    <div class="mobile-menu-area sticky-menu" id="navbar">
+        <div class="mobile-menu">
+            <div class="mobile-logo">
+                <a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+            </div>
+            <div class="side-menu-info">
+                <div class="sidebar-menu">
+                    <a class="navSidebar-button" href="#"><i class="bi bi-justify-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
-
-    <div class="breatcome-area">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12 col-md-12">
-					<div class="breatcome-content">
-						<div class="breatcome-title">
-							<h1>Products</h1>
-						</div>
-						<div class="bratcome-text">
-							<ul>
-								<li><a href="index.html">Home</a></li>
-								<li>Products</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+    <!--==================================================-->
+    <!-- End Header Area -->
+    <!--==================================================-->
 
 
 
 
-    <div class="product-section" >
 
-    <div class="product-container">
+
+
+    <div class="product-section">
+
+        <div class="product-container">
 
             <?php
             $sql_query = "SELECT * FROM `products-list`";
@@ -144,8 +125,8 @@ include ("connection/conn.php");
                     <img src="<?php echo $row['image']; ?>" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 style="text-transform: capitalize;" class="card-title"><?php echo $row['name']; ?></h5>
-                        <p style="" class="card-text price" >Price: <i
-                                class="fa-solid fa-indian-rupee-sign" style = "font-size: 1rem"></i><?php echo $row['price']; ?></p>
+                        <p style="" class="card-text price">Price: <i class="fa-solid fa-indian-rupee-sign"
+                                style="font-size: 1rem"></i><?php echo $row['price']; ?></p>
 
                         <p class="card-text"><?php echo $row['short-des']; ?> </p>
                         <button class="btn-open-popup" onclick="togglePopup()">View More</button>
