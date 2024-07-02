@@ -148,7 +148,7 @@
 
 .card-img-top{
     height: 12rem;
-    width: 70%;
+    width: 70% !important;
     margin: auto;
     margin-top: 1rem;
 }
