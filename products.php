@@ -123,7 +123,7 @@ include ("connection/conn.php");
                     <div class="card-body">
                         <h5 class="card-title"><?php echo $row['name']; ?></h5>
                         <p style="" class="card-text price" >Price: <i
-                                class="fa-solid fa-indian-rupee-sign" style = "font-size: 1rem"></i> <?php echo $row['price']; ?></p>
+                                class="fa-solid fa-indian-rupee-sign" style = "font-size: 1rem"></i><?php echo $row['price']; ?></p>
 
                         <p class="card-text"><?php echo $row['short-des']; ?> </p>
                         <button class="btn-open-popup" onclick="togglePopup()">View More</button>
