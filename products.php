@@ -90,7 +90,7 @@ include ("connection/conn.php");
 
     <div class="product-section">
 
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2rem; margin-bottom: 5rem; padding: 2rem;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 5rem; padding: 2rem;">
 
             <?php
             $sql_query = "SELECT * FROM `products-list`";
