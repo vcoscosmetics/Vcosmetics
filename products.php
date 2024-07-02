@@ -123,7 +123,7 @@ include ("connection/conn.php");
                 <div class="card" style=" height: auto">
                     <img src="<?php echo $row['image']; ?>" class="card-img-top" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title"><?php echo $row['name']; ?></h5>
+                        <h5 style="text-transform: capitalize;" class="card-title"><?php echo $row['name']; ?></h5>
                         <p style="" class="card-text price" >Price: <i
                                 class="fa-solid fa-indian-rupee-sign" style = "font-size: 1rem"></i><?php echo $row['price']; ?></p>
 
