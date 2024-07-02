@@ -120,9 +120,15 @@
 } 
 
 
+.product-section{
+    
+    margin-top:5rem;
+}
+
 
 .card {
     box-shadow: 0px 2px 10px grey;
+
 }
 
 
