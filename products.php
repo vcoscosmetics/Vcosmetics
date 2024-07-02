@@ -88,6 +88,27 @@ include ("connection/conn.php");
     ?>
 
 
+<div class="mobile-menu-area sticky-menu" id="navbar">
+		<div class="mobile-menu">
+			<div class="mobile-logo">
+				<a href="index.html"><img src="assets/images/logo.png" alt=""></a>
+			</div>
+			<div class="side-menu-info">
+				<div class="sidebar-menu">
+					<a class="navSidebar-button" href="#"><i class="bi bi-justify-right"></i></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- End Header Area -->
+	<!--==================================================-->
+
+
+
+
+
+
     <div class="product-section">
 
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 2rem; margin-bottom: 5rem; padding: 2rem;">
