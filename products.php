@@ -114,7 +114,7 @@ include ("connection/conn.php");
 
     <div class="product-section">
 
-        <div class="product-container" style = "    display: grid; 
+        <div class="product-container" style="    display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(275px, 1fr)); 
     gap: 2rem;     
     margin-top:2rem;
