@@ -113,8 +113,7 @@ include ("connection/conn.php");
 
     <div class="product-section" >
 
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(275px, 1fr)); gap: 2rem;     margin-top:5rem;
- margin-bottom: 5rem; padding: 2rem;">
+    <div class="product-container">
 
             <?php
             $sql_query = "SELECT * FROM `products-list`";
