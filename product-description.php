@@ -40,7 +40,7 @@
 	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all">
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
-	<link rel="stylesheet" href="mycss.css">
+	<link rel="stylesheet" href="assets/css/mycss.css">
 
 
 
