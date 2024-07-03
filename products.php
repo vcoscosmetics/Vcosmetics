@@ -163,41 +163,7 @@ include ("connection/conn.php");
         </div>
     </div>
 
-    <div id="popupOverlay" class="overlay-container">
-        <div class="popup-box">
-            <div class="Popup-header">
-
-                <button class="btn-close-popup" onclick="togglePopup()">
-                    X
-                </button>
-            </div>
-            <h2 style="color: green;">Query Form</h2>
-
-            <form class="form-container">
-                <label class="form-label" for="name">
-                    Name:
-                </label>
-                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
-
-                <label class="form-label" for="email">Email:</label>
-                <input class="form-input" type="email" placeholder="Enter Your Email" id="email" name="email" required>
-                <label class="form-label" for="name">
-                    Contact No:
-                </label>
-                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
-                <label class="form-label" for="name">
-                    State:
-                </label>
-                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
-
-                <button class="btn-submit" type="submit">
-                    Submit
-                </button>
-            </form>
-
-
-        </div>
-    </div>
+ 
 
 
 

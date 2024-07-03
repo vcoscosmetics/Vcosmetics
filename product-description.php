@@ -40,6 +40,7 @@
 	<link rel="stylesheet" href="assets/css/responsive.css" type="text/css" media="all">
 	<!-- modernizr js -->
 	<script src="assets/js/vendor/modernizr-3.5.0.min.js"></script>
+	<link rel="stylesheet" href="mycss.css">
 
 
 
@@ -206,13 +207,13 @@
 			<div class="all-images">
 				<div class="small-images">
 
-				<img src="https://www.shutterstock.com/image-photo/modern-white-stone-pedestal-curved-260nw-2479851015.jpg" onclick="clickimg(this)" />
-				<img src="https://m.media-amazon.com/images/I/71DKX620adL._AC_UF350,350_QL80_.jpg" onclick="clickimg(this)" />
-				<img src="https://m.media-amazon.com/images/I/71DKX620adL._AC_UF350,350_QL80_.jpg" onclick="clickimg(this)" />
+				<img src="assets/images/test/1.jpeg" onclick="clickimg(this)" />
+				<img src="assets/images/test/2.jpeg" onclick="clickimg(this)" />
+				<img src="assets/images/test/3.jpeg" onclick="clickimg(this)" />
 
 				</div>
 				<div class="main-images">
-				<img src="https://www.shutterstock.com/image-photo/modern-white-stone-pedestal-curved-260nw-2479851015.jpg" id="imagebox" />
+				<img src="assets/images/test/1.jpeg" id="imagebox" />
 				</div>
 			</div>
 		</div>
@@ -220,11 +221,11 @@
 		<div class="text">
         <div class="content">
           <!-- <p class="brand">Brand: Vinayak Ayurveda</p> -->
-          <p class="Product-name" style= " font-weight: 600; font-size: 1.2rem;">HNCO White Aloe Vera Gel, For Hair And Skin Care, Packaging Size: 40 KG
+          <p class="Product-name" style= " font-weight: 600; font-size: 1.2rem;">Ginger oil, Cold pressed Ginger oil, Packaging: 50ml
 		  </p>
         </div>
         <div class="pricebox">
-         <button style=" padding: 0.5rem 1.5rem; border:none; background-color:#258169; color: #fff; margin-bottom:2rem; border-radius:5px;">Get Price</button>
+         <button style=" padding: 0.5rem 1.5rem; border:none; background-color:#258169; color: #fff; margin-bottom:2rem; border-radius:5px;" class="btn-open-popup" onclick="togglePopup()">Get Price</button>
           <div class="product-details">
             <table>
 
@@ -266,6 +267,44 @@
 
 	</div>
 	</div>
+
+
+
+	<div id="popupOverlay" class="overlay-container">
+        <div class="popup-box">
+            <div class="Popup-header">
+
+                <button class="btn-close-popup" onclick="togglePopup()">
+                    X
+                </button>
+            </div>
+            <h2 style="color: green;">Query Form</h2>
+
+            <form class="form-container">
+                <label class="form-label" for="name">
+                    Name:
+                </label>
+                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
+
+                <label class="form-label" for="email">Email:</label>
+                <input class="form-input" type="email" placeholder="Enter Your Email" id="email" name="email" required>
+                <label class="form-label" for="name">
+                    Contact No:
+                </label>
+                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
+                <label class="form-label" for="name">
+                    State:
+                </label>
+                <input class="form-input" type="text" placeholder="Enter Your Username" id="name" name="name" required>
+
+                <button class="btn-submit" type="submit">
+                    Submit
+                </button>
+            </form>
+
+
+        </div>
+    </div>
 
 
 
