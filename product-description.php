@@ -405,6 +405,12 @@
 
 	<!-- scroll js -->
 	<script src="assets/js/script.js"></script>
+	<script> 
+        function togglePopup() { 
+            const overlay = document.getElementById('popupOverlay'); 
+            overlay.classList.toggle('show'); 
+        } 
+    </script> 
 
 	<script>
     function clickimg(smallimage) {
