@@ -152,7 +152,7 @@ include ("connection/conn.php");
                                 style="font-size: 1rem"></i><?php echo $row['price']; ?></p>
 
                         <p class="card-text"><?php echo $row['short-des']; ?> </p>
-                        <a href="product-description.php"><button class="btn-open-popup" onclick="togglePopup()">View More</button></a>
+                        <a href="product-description.php"><button class="btn-open-popup" onclick="">View More</button></a>
                     </div>
                 </div>
                 <?php
